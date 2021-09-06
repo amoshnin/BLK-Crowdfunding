@@ -34,4 +34,8 @@ npm run serve
 * [web3.js](https://github.com/ethereum/web3.js/) - Javascript library used to interact with the Ethereum blockchain 
 
 ## Resources used
-- The project was built with the help resources such as: [OpenBerry](https://openberry.ac/), 
+The project was built with the help resources: 
+- [Docs: Solidity Documentation](https://docs.soliditylang.org/en/v0.8.7/)
+- [Articles: Investopedia](https://www.investopedia.com/terms/c/crowdfunding.asp)
+- [Book: Hands-On Smart Contract Development with Solidity and Ethereum : From Fundamentals to Deployment](https://www.amazon.com/Hands-Contract-Development-Solidity-Ethereum/dp/1492045268)
+- [Articles: OpenBerry](https://openberry.ac/)
