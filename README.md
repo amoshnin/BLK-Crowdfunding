@@ -1,6 +1,7 @@
 # Crowdfunding
 
-A simple Ethereum-based crowdfunding decentralized application (dapp) where you can start and fund crowdfunding projects. It uses Ether, a cryptocurrency, as the medium of exchange (currency).
+Ethereum-based crowdfunding decentralized application (dapp) where you can start and fund crowdfunding projects. <br/> 
+Ethereum cryptocurrency is used as the medium of exchange (currency).
 
 ![Crowdfunding](https://i.imgur.com/mmnPHLf.gif)
 
@@ -14,8 +15,8 @@ A simple Ethereum-based crowdfunding decentralized application (dapp) where you 
 Clone this repo via to your local machine and install the dependencies by doing the following:
 
 ```bash
-git clone https://github.com/openberry-ac/crowdfunding.git
-cd crowdfunding
+git clone https://github.com/Artem711/BLK-Crowdfunding.git
+cd BLK-Crowdfunding
 npm install
 ```
 
