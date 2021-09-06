@@ -1,7 +1,7 @@
 # Crowdfunding
 
-Ethereum-based crowdfunding decentralized application (dapp) where you can start and fund crowdfunding projects. <br/> 
-Ethereum cryptocurrency is used as the medium of exchange (currency).
+- Ethereum-based crowdfunding decentralized application (dapp) where you can start and fund crowdfunding projects.
+- Ethereum cryptocurrency is used as the medium of exchange (currency).
 
 ![Crowdfunding](https://i.imgur.com/mmnPHLf.gif)
 
